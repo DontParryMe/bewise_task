@@ -1,5 +1,5 @@
 ## How to run postgres database
-# IN root of the project run the command "pip install requirements"
+# In root of the project run the command "pip install requirements"
 # In root of the project create file ".env"
 # Example of the ".env" file:
     POSTGRES_USER=postgres
